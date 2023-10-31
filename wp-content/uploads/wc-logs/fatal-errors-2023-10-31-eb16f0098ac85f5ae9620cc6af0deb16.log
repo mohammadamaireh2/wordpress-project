@@ -1,0 +1,10 @@
+2023-10-31T07:49:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\role-manager\role-manager.php on line 9
+
+2023-10-31T07:49:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\modules\share-buttons\module.php on line 6
+
+2023-10-31T07:50:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 112
+
+2023-10-31T07:50:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\modules\woocommerce\documents\product-post.php on line 8
+
+2023-10-31T07:50:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\controls\textarea.php on line 6
+
